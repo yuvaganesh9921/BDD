@@ -28,4 +28,5 @@ public class test extends Base_Class_Ipt2 {
  public void click() {
 	 select(driver.findElement(By.id("login")));
  }
+
 }
